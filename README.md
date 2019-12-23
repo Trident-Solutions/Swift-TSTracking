@@ -7,12 +7,10 @@ This is a simple ios project for tracking app user's location to a destination a
 [![iOS](https://img.shields.io/badge/Platform-iOS-blue.svg)](https://iOS.org/)
 
 ## Demo 
-![TrackVideo](https://user-images.githubusercontent.com/13218010/70846886-1aa8ae00-1e84-11ea-807f-9b076b019159.gif)
-
+![Tracking Video-min](https://user-images.githubusercontent.com/13218010/71304991-ab870880-23f3-11ea-9e38-2b4ae4613e0f.gif)
 ## 📸 Screenshot
 
-![TrackingImage](https://user-images.githubusercontent.com/13218010/70846709-fe0b7680-1e81-11ea-8373-5df63d438ea2.PNG)
-## Requirements
+![TrackingImage](https://user-images.githubusercontent.com/13218010/71304642-b049bd80-23ef-11ea-9e39-656bf13f8b6d.png)
 
 The latest version of Swift require:
 * Swift 4+
